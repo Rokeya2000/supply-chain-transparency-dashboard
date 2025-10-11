@@ -1,0 +1,6 @@
+supplier_id,supplier_name,region,lead_time_target_days
+1,Alpha Logistics,NSW,3
+2,Beacon Supply,VIC,5
+3,Cobalt Partners,QLD,4
+4,Delta Trade,SA,6
+5,Epsilon Goods,WA,5
