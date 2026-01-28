@@ -1,7 +1,4 @@
-# Supply Chain Transparency Dashboard (Python + SQL + Tableau-ready)
-
-**Status:** ✅ Ready to upload — all outputs pre-generated.  
-You do **not** need to run anything.
+# Supply Chain Transparency Dashboard (Python + SQL + Tableau-
 
 ## What's inside
 ```
